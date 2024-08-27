@@ -1,7 +1,7 @@
 ## Sahasra Dayal's First CS193 Homework
--I like that we get to work on real projects.
--I like that we are taught by other students who understand how to communicate with us.
--I like that the class has super nice people!
+- I like that we get to work on real projects.
+- I like that we are taught by other students who understand how to communicate with us.
+- I like that the class has super nice people!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
